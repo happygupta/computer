@@ -8,7 +8,7 @@
 - No overhead on creating & releasing isolates for each task. Workers initialized on start and ready to solve your tasks
 - Strictly defined number of workers
 
-## Note
+## Notes
 
 `Computer.shared()` is a singleton, use `Computer.create()` to create new instances
 
